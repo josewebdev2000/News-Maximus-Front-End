@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/News-Maximus-Front-End/static/css/main.1f201242.css",
+    "main.js": "/News-Maximus-Front-End/static/js/main.45baf0f2.js",
+    "static/js/787.a1033e73.chunk.js": "/News-Maximus-Front-End/static/js/787.a1033e73.chunk.js",
+    "static/media/GitHub-Profile-Pic.jpeg": "/News-Maximus-Front-End/static/media/GitHub-Profile-Pic.d7787fb073d2ec3565ce.jpeg",
+    "index.html": "/News-Maximus-Front-End/index.html",
+    "main.1f201242.css.map": "/News-Maximus-Front-End/static/css/main.1f201242.css.map",
+    "main.45baf0f2.js.map": "/News-Maximus-Front-End/static/js/main.45baf0f2.js.map",
+    "787.a1033e73.chunk.js.map": "/News-Maximus-Front-End/static/js/787.a1033e73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f201242.css",
+    "static/js/main.45baf0f2.js"
+  ]
+}
