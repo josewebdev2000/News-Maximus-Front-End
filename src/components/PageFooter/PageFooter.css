@@ -1,0 +1,30 @@
+.profile-pic, .copy-n-name
+{
+    margin: 2%;
+}
+
+.profile-pic
+{
+    border: 5px solid white;
+    transition: opacity 0.25s;
+    transition-timing-function: ease-in;
+    width: 25%;
+}
+
+.profile-pic:hover
+{
+    opacity: 0.5;
+}
+
+@media screen and (max-width: 768px)
+{
+    .profile-pic
+    {
+        width: 150px;
+    }
+
+    .rowContainer
+    {
+        text-align: center;
+    }
+}

@@ -1,0 +1,17 @@
+.newsLink, .newsLink:hover
+{
+    text-decoration: none;
+    color: white;
+    width: 100%;
+}
+
+.imageLink
+{
+    transition: filter 0.25s;
+    transition-timing-function: ease-in;
+}
+
+.imageLink:hover
+{
+    filter: brightness(50%);
+}

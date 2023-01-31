@@ -1,0 +1,53 @@
+header h1
+{
+    font-family: 'Merriweather', serif;
+}
+
+header h3
+{
+    font-family: "Playfair Display", serif;
+}
+
+.Tilt-container:hover
+{
+    box-shadow: 5px 3px 6px 1px gray;
+    margin: auto;
+    width: 25%;
+}
+
+@media screen and (min-width: 400px)
+{
+    .Tilt-container, img.smallPic
+    {
+        padding: 25px;
+    }
+
+    header h1
+    {
+        font-size: 400%;
+    }
+
+    header h3
+    {
+        font-size: 230%;
+    }
+}
+
+@media screen and (max-width: 399px)
+{
+    img.smallPic
+    {
+        padding: 20px;
+        width: 120px;
+    }
+
+    header h1
+    {
+        font-size: 200%;
+    }
+
+    header h3
+    {
+        font-size: 125%;
+    }
+}
